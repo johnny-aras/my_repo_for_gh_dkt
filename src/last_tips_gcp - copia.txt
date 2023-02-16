@@ -1,0 +1,33 @@
+SEMANA 1
+https://googlecoursera.qwiklabs.com/focuses/26384453?parent=lti_session
+SEMANA 2
+https://googlecoursera.qwiklabs.com/focuses/26385135?parent=lti_session
+
+europe-central-2
+10.186.0.0/20
+us-east-1
+10.142.0.0/20
+
+
+internal ip 
+10.128.0.2
+external ip 
+34.67.15.225
+
+gcloud auth login
+
+internal ip
+10.128.0.2
+external ip 
+35.223.234.82
+
+qwiklabs-gcp-04-937112374c99
+
+my_bucket_qwiklabs-gcp-00-4af833975345
+my base de datos
+tt
+public ip address
+35.224.182.118/32
+usuario
+blogdbuser
+1234
